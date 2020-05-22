@@ -1,4 +1,3 @@
-- COEN-280-Database-Systems Course Project
 <b>Background</b>
 This is a course project to develop a data analysis application for Yelp.com’s business review data. The emphasis is on the database infrastructure of the application.
 In 2013, Yelp.com has announced the “Yelp Dataset Challenge” and invited students to use this data in an innovative way and break ground in research. In this project you would query this dataset to extract useful information for local businesses and individual users.
